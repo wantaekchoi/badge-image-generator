@@ -1,0 +1,10 @@
+.button {
+  width: calc(100% - 20px);
+  padding: calc(10px);
+
+  background-color: #007BFF;
+}
+
+.button-disabled {
+  cursor: not-allowed;
+}

@@ -1,0 +1,14 @@
+.text-viewer-container {
+  margin-top: 20px;
+  padding: 15px;
+  background-color: #f9f9f9;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+}
+
+.text-viewer-content {
+  font-family: "Courier New", Courier, monospace;
+  font-size: 14px;
+  color: #333;
+  white-space: pre-wrap;
+}

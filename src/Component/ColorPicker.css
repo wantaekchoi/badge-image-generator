@@ -1,0 +1,13 @@
+.color-picker-container {
+    margin-bottom: 15px;
+}
+
+.color-picker-label {
+    display: block;
+    font-size: 14px;
+    margin-bottom: 5px;
+}
+
+.color-picker-field {
+    width: 100%;
+}

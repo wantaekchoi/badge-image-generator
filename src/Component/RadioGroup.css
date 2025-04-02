@@ -1,0 +1,24 @@
+.radio-group-container {
+  margin-bottom: 15px;
+}
+
+.radio-group-label {
+  display: block;
+  font-size: 14px;
+  margin-bottom: 5px;
+}
+
+.radio-group-options {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+}
+
+.radio-option {
+  display: flex;
+  align-items: center;
+}
+
+.radio-option input[type="radio"] {
+  margin-right: 5px;
+}
